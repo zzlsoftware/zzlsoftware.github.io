@@ -1,5 +1,5 @@
 $(function(){
 	$("#download_btn").click(function(){
-		window.open("app/test.apk");
+		window.location.href="app/test.apk";
 	});
 });
