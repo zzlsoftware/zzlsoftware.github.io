@@ -2591,28 +2591,26 @@ textarea:active, textarea:focus {
 	height:100%;
 	text-align:center;
 	margin-top: 5rem;
-	color: white;
+	color: black;
 	font-size: 1rem;
 }
 
-.fixed{ position:fixed; left:0px; bottom:0px; width:100%; height:7rem; background-color:transparent; z-index:9999;}
+.fixed{ position:fixed; left:0px; bottom:5rem; width:100%; height:5rem; background-color:transparent; z-index:9999;}
 
 #download_btn{
-	border: solid 1px white;
-	border-color:white;
+	border: solid 1px black;
+	border-color:black;
 	padding-left: 2rem;
 	padding-right: 2rem;
 	padding-top: 1rem;
 	padding-bottom: 1rem;
 	text-align: center;
-	color: white;
+	color: black;
 	margin-top: 0px;
 	margin-left: 25%;
 	margin-right: 25%;
-	margin-bottom:15%;
 	font-size: 1rem;
 }
-
 
 
 /*-- Responsive-Code --*/
